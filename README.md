@@ -1,12 +1,12 @@
 # Tetris
 
-:video_game: A Java implementation of *Tetris*.  
+:video_game: A Java implementation of the game *Tetris*.  
 Made with: `java.awt` & `javax.swing`  
 
 <img src = "Tetris.gif" width="188" height="414" />
 
 ## Demo
-* Download `Tetris.jar` to play.
+* Download [`Tetris.jar`](https://github.com/miffycs/Tetris/blob/master/Tetris.jar) to play.
 
 </br>
 
